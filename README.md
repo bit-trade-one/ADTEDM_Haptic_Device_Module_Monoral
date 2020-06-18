@@ -22,6 +22,8 @@ VR(バーチャルリアリティ)技術の急速な高まりにより、
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adtedm/)!
 
+## [回路図](https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral/blob/master/Schematics/haptic_d_v12_schematics.pdf)
+
 ## 製品仕様
 
  アンプ部  
